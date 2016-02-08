@@ -44,6 +44,9 @@ https://www.iconfinder.com/icons/183185/arrow_circle_down_icon#size=512
     * --stop-with-process=<PID>
     * --conf-path
     * --dir
+    * --continue
+    * --save-session
+    * --save-session-interval
 - [ ] Improve readme
 - [ ] Windows compatibility
 - [ ] Linux compatibility
