@@ -60,9 +60,9 @@ function createMenu() {
 // initialization and is ready to create browser windows.
 app.on('ready', function() {
 	aria2.launch(
-		"je4nspFB68fex", //use https://github.com/indexzero/nconf
-		"caprica",
-		"purple"
+		//"je4nspFB68fex",
+		//"caprica",
+		//"purple"
 	)
 	createWindow();
     createMenu();
